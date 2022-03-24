@@ -1,0 +1,30 @@
+        @import url('https://fonts.googleapis.com/css2?family=ubuntu');
+        * {
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'ubuntu', sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            overflow: hidden;
+            margin: 0;
+            /* background-color: rgb(245, 108, 10); */
+        }
+        
+        #bg {
+            background-color: red;
+            position: absolute;
+            top: -30;
+            left: -30;
+            width: (100vw + 60px);
+            height: (100vw + 60px);
+            z-index: -1;
+            filter: blur(30px);
+        }
+        
+        h1 {
+            color: red;
+        }
