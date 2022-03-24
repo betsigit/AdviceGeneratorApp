@@ -16,15 +16,16 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 ### The challenge
 
 Advice generator app challenge on Frontend Mentor
-### Screenshot
+### Screenshot 
 
-![](./screenshot.jpg)
+![desktop view of advice generator app](./images/desktop.png)
+![phone view of advice generator app](./images/phone.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/betsigit/advice-generetor.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://betsigit.github.io/advice-generetor/)
 
 
 ### Built with
@@ -36,6 +37,6 @@ Advice generator app challenge on Frontend Mentor
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@bestigit](https://www.frontendmentor.io/profile/betsigit)
+
 
